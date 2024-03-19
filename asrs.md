@@ -150,13 +150,14 @@ requests / minute
 
 ### Technical
 
+- _TC1_ - Language: the API must be implemented in Go
+- _TC2_ - Host: the system must have the option of being self hosted
+- _TC3_ - Compatibility: assure that the mobile application works on both
+  android and iOS devices, and the website works in all Chromium based browsers
+
 ### Business
 
-- _C1_ - Data: the system must abide to data protection laws
-- _C2_ - Cost: the upkeep of the system must not surpass $5.000/month
-- _C4_ - Language: the API must be implemented in Go
-- _C5_ - Process: the development must follow the SCRUM principles, with one of
+- _BC1_ - Data: the system must abide to data protection laws
+- _BC2_ - Cost: the upkeep of the system must not surpass $5.000/month
+- _!BC3_ - Process: the development must follow the SCRUM principles, with one of
   the stores employees as domain expert
-- _C6_ - Host: the system must have the option of being self hosted
-- _C7_ - Compatibility: assure that the mobile application works on both
-  android and iOS devices, and the website works in all Chromium based browsers
