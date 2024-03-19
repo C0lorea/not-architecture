@@ -154,6 +154,8 @@ requests / minute
 - _TC2_ - Host: the system must have the option of being self hosted
 - _TC3_ - Compatibility: assure that the mobile application works on both
   android and iOS devices, and the website works in all Chromium based browsers
+- _TC4_ - Data formats: The API should support flexible data formats (JSON and
+  YAML)
 
 ### Business
 
@@ -161,3 +163,5 @@ requests / minute
 - _BC2_ - Cost: the upkeep of the system must not surpass $5.000/month
 - _!BC3_ - Process: the development must follow the SCRUM principles, with one of
   the stores employees as domain expert
+- _BC4_ - Due date: the development of the system may take as much as one year,
+  with a MVP available after the first 6 months
