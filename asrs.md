@@ -156,9 +156,15 @@ requests / minute
 
 #### _TC1_ - Language
 
-**Stakeholder** - SH4 (Development Team)
+**Stakeholder** - SH1 (Store Owner) and SH4 (Development Team)
 
-Go is fast and works well with the system's requirements, ensuring a smooth experience for users. Additionally, Using one language makes it easier to fix problems and add new features later on, streamlining development and ensuring consistency in codebase management.
+Go is fast and works well with the system's requirements, ensuring a smooth
+experience for users. Additionally, Using one language makes it easier to fix
+problems and add new features later on, streamlining development and ensuring
+consistency in codebase management. The owner asked for this language
+specifically because he has a few contacts that will help maintain the system
+that already know this programming language. The development team is directly
+affected by this decision.
 
 #### _TC4_ - Data Formats
 
@@ -189,4 +195,9 @@ the sprint retrospectives and give his input on improvements to the system.
 
 **Stakeholder** - SH1 (Store owner)
 
-The store owner needs the system ready on time to keep customers happy and maintains trust in the store. Also, sticking to the timeline helps manage costs effectively by allocating resources wisely over the project duration. Additionally, releasing a basic version after six months allows for early feedback and improvements based on customer needs, keeping the system adaptable and relevant.
+The store owner needs the system ready on time to keep customers happy and
+maintains trust in the store. Also, sticking to the timeline helps manage costs
+effectively by allocating resources wisely over the project duration.
+Additionally, releasing a basic version after six months allows for early
+feedback and improvements based on customer needs, keeping the system adaptable
+and relevant.
