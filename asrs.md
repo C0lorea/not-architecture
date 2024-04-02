@@ -168,7 +168,16 @@ deal with data only in the JSON or YAML formatting.
 
 - _BC1_ - Data: the system must abide to data protection laws
 - _BC2_ - Cost: the upkeep of the system must not surpass $5.000/month
-- _!BC3_ - Process: the development must follow the SCRUM principles, with one of
-  the stores employees as domain expert
 - _BC4_ - Due date: the development of the system may take as much as one year,
   with a MVP available after the first 6 months
+
+#### _BC3_ - Process
+
+**Stakeholder** - SH1 (Store owner) and SH3 (Store manager)
+
+The development must follow the SCRUM principles, with one of the stores
+employees as domain expert. The owner wants one of the employees present in
+order to help the development team to move in the right direction. Besides that,
+being able to track progress throughout the sprints is something very attractive
+to the owner. The manager also wants this methodology in order to participate of
+the sprint retrospectives and give his input on improvements to the system.
