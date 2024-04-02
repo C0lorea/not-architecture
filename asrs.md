@@ -154,8 +154,15 @@ requests / minute
 - _TC2_ - Host: the system must have the option of being self hosted
 - _TC3_ - Compatibility: assure that the mobile application works on both
   android and iOS devices, and the website works in all Chromium based browsers
-- _TC4_ - Data formats: The API should support flexible data formats (JSON and
-  YAML)
+
+#### _TC4_ - Data Formats
+
+**Stakeholder** - SH1 (Store Owner)
+
+The API should support flexible data formats (JSON and YAML) for
+importing/exporting data. This is because the owner has data from previous
+months as JSON and there are some tools he plans on using in the future that can
+deal with data only in the JSON or YAML formatting.
 
 ### Business
 
