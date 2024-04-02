@@ -150,10 +150,15 @@ requests / minute
 
 ### Technical
 
-- _TC1_ - Language: the API must be implemented in Go
 - _TC2_ - Host: the system must have the option of being self hosted
 - _TC3_ - Compatibility: assure that the mobile application works on both
   android and iOS devices, and the website works in all Chromium based browsers
+
+#### _TC1_ - Language
+
+**Stakeholder** - SH4 (Development Team)
+
+Go is fast and works well with the system's requirements, ensuring a smooth experience for users. Additionally, Using one language makes it easier to fix problems and add new features later on, streamlining development and ensuring consistency in codebase management.
 
 #### _TC4_ - Data Formats
 
@@ -168,8 +173,6 @@ deal with data only in the JSON or YAML formatting.
 
 - _BC1_ - Data: the system must abide to data protection laws
 - _BC2_ - Cost: the upkeep of the system must not surpass $5.000/month
-- _BC4_ - Due date: the development of the system may take as much as one year,
-  with a MVP available after the first 6 months
 
 #### _BC3_ - Process
 
@@ -181,3 +184,9 @@ order to help the development team to move in the right direction. Besides that,
 being able to track progress throughout the sprints is something very attractive
 to the owner. The manager also wants this methodology in order to participate of
 the sprint retrospectives and give his input on improvements to the system.
+
+#### _BC4_ - Due Date
+
+**Stakeholder** - SH1 (Store owner)
+
+The store owner needs the system ready on time to keep customers happy and maintains trust in the store. Also, sticking to the timeline helps manage costs effectively by allocating resources wisely over the project duration. Additionally, releasing a basic version after six months allows for early feedback and improvements based on customer needs, keeping the system adaptable and relevant.
